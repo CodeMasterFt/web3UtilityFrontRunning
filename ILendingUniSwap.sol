@@ -6526,7 +6526,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // BTC 2x Flexible Leverage Index (BTC2x-FLI)
 // The WBTC Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.
-return 0xa5bd0955dCEFedaedD319b9c05A02ce0Fe14F731;
+return 0x5EABadf0b318C84050cD29582cA82D5F7b3890a6;
 // 0x0b498ff89709d3838a063f1dfa463091f9801c2b
 
 
